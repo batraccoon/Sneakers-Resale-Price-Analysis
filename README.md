@@ -19,4 +19,4 @@ In this project, several activities were carried out, including:
 - Conclusion 
 > Communicate the findings from exploration and provide answers to the objectives.
 
-**Dashboard on Tableu** : [https://public.tableau.com/shared/D93PCTTQD?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/angger.rizky.firdaus/viz/StockXanalysisinBahasa/Dashboard1?publish=yes)https://public.tableau.com/app/profile/angger.rizky.firdaus/viz/StockXanalysisinBahasa/Dashboard1?publish=yes
+**Dashboard on Tableu** : https://public.tableau.com/app/profile/angger.rizky.firdaus/viz/StockXanalysisinBahasa/Dashboard1?publish=yes
